@@ -21,3 +21,14 @@ Development
 frameworks
 pyunit
 Git
+git
+NãoComercial
+CompartilhaIgual
+Creative
+Commons
+SEnC
+Pylestras
+Coding
+coffee
+Sprints
+Meetup
