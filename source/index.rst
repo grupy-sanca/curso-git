@@ -1,14 +1,13 @@
 Boas vindas ao Curso de Git do Grupy Sanca!
 ===========================================
 
-Colocar um textinho legal sobre o grupy sanca aqui. E o link para
-`curso <curso.grupysanca.com.br>`_.
-
-Falar da licença do material aqui.
+.. include:: prefacio.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: Conteúdo:
+   :name: Índice
 
    introducao
+   sobre_grupy
    problemas
