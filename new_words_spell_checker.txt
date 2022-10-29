@@ -21,3 +21,7 @@ Development
 frameworks
 pyunit
 Git
+commit
+push
+remote
+revert
